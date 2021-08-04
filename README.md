@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JadAK7
+- 👀 I’m interested in Java and Web Development
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me jadak2002@hotmail.com
