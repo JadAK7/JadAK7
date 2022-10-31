@@ -23,7 +23,7 @@ I'm a full-stack developer. All coding projects are built from the ground up, fr
 
 ### 📊 Stats
 
-![Jad's github stats](https://github-readme-stats.vercel.app/api?username=JADAK7&show_icons=true&theme=gruvbox&&count_private=true)
+![Jad's github stats](https://github-readme-stats.vercel.app/api?username=JADAK7&show_icons=true&count_private=true)
 
 #
 
