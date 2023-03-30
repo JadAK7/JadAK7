@@ -26,9 +26,3 @@ I'm a full-stack developer. All coding projects are built from the ground up, fr
 ![Jad's github stats](https://github-readme-stats.vercel.app/api?username=JADAK7&count_private=true)
 
 #
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world 
-
-[website]: https://jadaboukaram.tech
